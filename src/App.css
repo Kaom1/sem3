@@ -8,3 +8,13 @@
   border: 1px solid gray
 }
 
+#catalog {
+  display: flex;
+  margin: 10px 0px;
+  flex-direction: column;
+}
+
+.katalog {
+  display: block;
+  margin: 15px 15px;
+}
